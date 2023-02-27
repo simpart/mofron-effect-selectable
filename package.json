@@ -1,0 +1,27 @@
+{
+  "name": "mofron-effect-selectable",
+  "version": "0.0.1",
+  "description": "selectable effect for mofron component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simpart/mofron-effect-selectable.git"
+  },
+  "dependencies": {
+    "mofron-event-click": "",
+    "mofron-effect-color": ""
+  },
+  "keywords": [
+    "mofron",
+    "front-end"
+  ],
+  "author": "simparts",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/simpart/mofron-effect-selectable/issues"
+  },
+  "homepage": "https://github.com/simpart/mofron-effect-selectable#readme"
+}
